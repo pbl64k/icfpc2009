@@ -1,0 +1,8 @@
+gcc & g++ 3.x/4.x
+Resonably recent GNU Make
+
+Just make the project, then invoke the resulting binary
+('om') with a single argument - scenario id (in decimal).
+
+binX.obf file for the scenario should be in the directory
+om is invoked from. Trace will be written to traceXXXX.osf

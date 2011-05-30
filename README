@@ -1,8 +1,9 @@
-gcc & g++ 3.x/4.x
-Resonably recent GNU Make
+Orbital Machine from ICFPC '2009
 
-Just make the project, then invoke the resulting binary
-('om') with a single argument - scenario id (in decimal).
+team wobble's final submission. #139/328, 1060.4346 pts, 8/16 solved.
 
-binX.obf file for the scenario should be in the directory
-om is invoked from. Trace will be written to traceXXXX.osf
+You are going to need simulation binaries (.obf) obtainable from here:
+
+http://www.ittc.ku.edu/icfp-contest/
+
+README.submission is the original README accompanying the source tree.
